@@ -2,6 +2,7 @@
 
 --Test scenario #1 -- Register a new user --
 
+Description: Test Case designed to register a brand new user to a given website. 
 Data requisites: 
 Password must be more than 4 characters. 
 Email should not be registered already. 
@@ -20,6 +21,8 @@ Step 11. Click on the Continue button. / Expected Result: "Your account has been
 
 --Test scenario #2 -- Add a new product to cart -- 
 
+Description: Test Case designed to test the add to cart functionality on a given website. 
+
 Data requisites: None
 Step 1. Open the following URL on Google Chrome browser: https://demo.opencart.com / Expected result: The website displays without any issue. / Actual result: Website was displayed correctly. / Status: Passed 
 Step 2. Click on the search box, located on the top edge of the screen. / Expected result: The cursor is located on the search box. /Actual result: The cursor was located on the search box / Status: Passed
@@ -30,6 +33,8 @@ Step 6. Click the Add to cart button, located on the product information page. /
 Step 7. Validate the message that is displayed confirming the product has been added to the cart. / Expected result: Message states the product has been added. /Actual result: Message states the product was added / Status: Passed
 
 --Test scenario #3 -- Validate the page currency is the same than the products currency -- 
+
+Description: Test Case created to verify the currency being used by different products on a given website. 
 
 Step 1. Open the following URL on Google Chrome browser: https://demo.opencart.com / Expected result: The website displays without any issue. / Actual result: Website was displayed correctly. / Status: Passed 
 Step 2. Click on the search box, located on the top edge of the screen. / Expected result: The cursor is located on the search box. /Actual result: The cursor was located on the search box / Status: Passed
