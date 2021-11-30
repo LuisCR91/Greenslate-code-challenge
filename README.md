@@ -16,7 +16,7 @@ Step 7. Enter your telephone on the telephone field. / Expected result: The tele
 Step 8. Enter your password on the password field. / Expected result: The password is entered. 
 Step 9. Re-enter your password on the Password confirm field. / The password is confirmed. 
 Step 10. Check the box that states "I have read and agree to the Privacy Policy. / Expected result: I have read and agree to the Privacy Policy box is checked. 
-Step 11. Click on the Continue button. / Expected Result: "Your account has been created! message is displayed on the screen and the account is created, having the using ready to login to the website.  
+Step 11. Click on the Continue button. / Expected Result: "Your account has been created! message is displayed on the screen and the account is created, having the user ready to login to the website.  
 
 --Test scenario #2 -- Add a new product to cart -- 
 
